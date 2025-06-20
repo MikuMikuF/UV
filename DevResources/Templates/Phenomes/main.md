@@ -1,4 +1,4 @@
-Put all the developer resources here.
+# Phoneme Chart Template
 
 # Consonants
 |                 | **Labial**    | **Coronal**                      | **Dorsal/Glottal** |
