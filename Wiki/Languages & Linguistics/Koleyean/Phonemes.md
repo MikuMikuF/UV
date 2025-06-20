@@ -8,6 +8,7 @@
 | **Affricates**  |               | /tʃ/                             |                    |
 
 ¹/ŋ/ happens when *ng* are together in a word, or when *nk* are together in a word, replacing the n sound
+
 ²/x/ happens when the letter *g* is at the end of a word
 
 # Vowels
@@ -20,7 +21,9 @@
 | **Open**      | /æ/        | /ä/ /ɐ/³    |          |
 
 ¹/ʊ/ replaces *o* before nasals
+
 ²/ə/ occurs when *ë* is unstressed
+
 ³/ɐ/ occurs when *a* is unstressed
 
 # Dipthongs
