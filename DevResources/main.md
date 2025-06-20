@@ -8,3 +8,12 @@ Put all the developer resources here.
 | **Fricatives**  |               |                                  |
 | **Glides**      |               |                                  |                    |
 | **Affricates**  |               |                                  |                    |
+
+# Vowels
+|               | **Front**  | **Central** | **Back** |
+| ------------- | ---------- | ----------- | -------- |
+| **Close**     |            |             |          |
+| **Close-Mid** |            |             |          |
+| **Central**   |            |             |          |
+| **Open-Mid**  |            |             |          |
+| **Open**      |            |             |          |
