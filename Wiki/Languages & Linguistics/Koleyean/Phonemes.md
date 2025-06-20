@@ -18,3 +18,12 @@
 | **Central**   |            | /ə/²        |          |
 | **Open-Mid**  | /ɛ/        |             | /ʌ/ /ɔ/  |
 | **Open**      | /æ/        | /ä/ /ɐ/³    |          |
+
+¹/ʊ/ replaces *o* before nasals
+²/ə/ occurs when *ë* is unstressed
+³/ɐ/ occurs when *a* is unstressed
+
+# Dipthongs
+| **Dipthongs** |          |          |          |          |
+| ------------- | -------- | -------- | -------- | -------- |
+|               |          |          |          |          |
